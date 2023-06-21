@@ -1,0 +1,1 @@
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/share/vmxpi_ros_cam/cmake/vmxpi_ros_camConfig.cmake

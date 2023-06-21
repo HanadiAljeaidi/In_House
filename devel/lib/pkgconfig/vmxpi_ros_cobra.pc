@@ -1,0 +1,1 @@
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cobra/lib/pkgconfig/vmxpi_ros_cobra.pc

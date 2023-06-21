@@ -1,0 +1,1 @@
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cobra/share/vmxpi_ros_cobra/cmake/vmxpi_ros_cobraConfig-version.cmake

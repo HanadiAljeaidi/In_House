@@ -1,0 +1,1 @@
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_ultrasonic/share/vmxpi_ros_ultrasonic/cmake/vmxpi_ros_ultrasonicConfig.cmake

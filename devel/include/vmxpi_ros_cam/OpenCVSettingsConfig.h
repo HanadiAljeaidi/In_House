@@ -1,0 +1,1 @@
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/include/vmxpi_ros_cam/OpenCVSettingsConfig.h

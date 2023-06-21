@@ -1,0 +1,1 @@
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_servo/lib/pkgconfig/vmxpi_ros_servo.pc

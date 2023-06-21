@@ -1,0 +1,1 @@
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_io/share/vmxpi_ros_io/cmake/vmxpi_ros_ioConfig.cmake
