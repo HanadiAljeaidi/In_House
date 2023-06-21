@@ -1,0 +1,1 @@
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/lib/python3/dist-packages/vmxpi_ros_cam/cfg/OpenCVSettingsConfig.py

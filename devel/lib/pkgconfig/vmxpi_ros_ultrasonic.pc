@@ -1,0 +1,1 @@
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_ultrasonic/lib/pkgconfig/vmxpi_ros_ultrasonic.pc

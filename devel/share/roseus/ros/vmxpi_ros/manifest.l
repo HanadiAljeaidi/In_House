@@ -1,0 +1,1 @@
+/home/pi/catkin_ws/devel/.private/vmxpi_ros/share/roseus/ros/vmxpi_ros/manifest.l

@@ -1,0 +1,1 @@
+/home/pi/catkin_ws/devel/.private/vmxpi_ros/include/vmxpi_ros/FloatResResponse.h
